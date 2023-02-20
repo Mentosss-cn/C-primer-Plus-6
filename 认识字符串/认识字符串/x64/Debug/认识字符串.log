@@ -1,0 +1,2 @@
+﻿  test.c
+C:\Users\18734\Desktop\初识C语言\认识字符串\认识字符串\test.c : fatal  error C1041: 无法打开程序数据库“C:\Users\18734\Desktop\初识C语言\认识字符串\认识字符串\x64\Debug\vc143.idb”；如果要将多个 CL.EXE 写入同一个 .PDB 文件，请使用 /FS
